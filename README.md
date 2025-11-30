@@ -1,6 +1,6 @@
-# Turo Clone: Exotic Sports Car Rental Platform
+# 302-CAR-PLUG: Exotic Sports Car Rental Platform!!!!
 
-# 🌐 Live Demo https://dannys-car-rentals-f8b7322b5394.herokuapp.com/
+# 🌐 Demo currently offline : https://dannys-car-rentals-f8b7322b5394.herokuapp.com/
 
 <img src="https://github.com/dannycao1997/TuroClone/blob/b4389f5304a658142703d108a6034da4e13bfbd7/turorental.gif" />
 
@@ -10,7 +10,7 @@ A platform for renting exotic and Japanese Domestic Market vehicles, catering to
 Your ultimate destination for renting the finest exotic sports cars! <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
 
 # ✨ Tech Stack
-Turo Clone is built using the following technologies:
+The app is built using the following technologies:
 
 - Spring Boot: Spring Boot is an open-source Java-based framework used to create a microservice.
 - React.js: React is a free and open-source front-end JavaScript library for building user interfaces or UI components.
